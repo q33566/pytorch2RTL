@@ -1,0 +1,12 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+my-hls-test/
+*.onnx
+
+# Virtual environments
+.venv
